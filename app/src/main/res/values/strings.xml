@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PDA_app</string>
+    <string name="companies">COMPANIES</string>
+    <string name="addComment">+ Add comment</string>
+    <string name="commentsTittle">Comments:</string>
+    <string name="zeroString">0</string>
+    <string name="companyDetails">COMPANY DETAILS</string>
+    <string name="submitComment">Submit Comment</string>
+    <string name="cancelBtn">Cancel</string>
+    <string name="addCommentTextView">add you comment</string>
+    <string name="likeDislike">Like or dislike?</string>
+    <string name="nickname">nickname</string>
+    <string name="password">password</string>
+    <string name="LoginBtn">Login</string>
+    <string name="forgotPasswdBtn">Forgot password?</string>
+</resources>
