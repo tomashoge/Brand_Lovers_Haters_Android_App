@@ -17,9 +17,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:label="Companies" android:name=".CompaniesActivity"/>
-        <activity android:label="Company Details" android:name=".CompanyDetailsActivity"/>
-        <activity android:label="Company Details" android:name=".NewCommentActivity"/>
+        <activity android:label="Companies" android:name=".CompaniesActivity" android:screenOrientation="portrait"/>
+        <activity android:label="Company Details" android:name=".CompanyDetailsActivity" android:screenOrientation="portrait"/>
+        <activity android:label="New Comment" android:name=".NewCommentActivity" android:screenOrientation="portrait"/>
     </application>
 
 </manifest>

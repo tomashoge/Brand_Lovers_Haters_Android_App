@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PDA_app</string>
+    <string name="app_name">Brand Lovers Haters</string>
     <string name="companies">COMPANIES</string>
     <string name="addComment">+ Add comment</string>
     <string name="commentsTittle">Comments:</string>
@@ -7,10 +7,17 @@
     <string name="companyDetails">COMPANY DETAILS</string>
     <string name="submitComment">Submit Comment</string>
     <string name="cancelBtn">Cancel</string>
-    <string name="addCommentTextView">add you comment</string>
+    <string name="addCommentTextView">Add you comment</string>
     <string name="likeDislike">Like or dislike?</string>
     <string name="nickname">nickname</string>
     <string name="password">password</string>
-    <string name="LoginBtn">Login</string>
+    <string name="LoginBtn">Enter</string>
     <string name="forgotPasswdBtn">Forgot password?</string>
+    <string name="company_id">company_id</string>
+    <string name="company_name">company_name</string>
+    <string name="like_dislike_unselected">Select like or dislike</string>
+    <string name="comment_is_missing">Text comment is not filled</string>
+    <string name="email_not_filled">Email is not filled</string>
+    <string name="comment_added">Comment added!</string>
+
 </resources>

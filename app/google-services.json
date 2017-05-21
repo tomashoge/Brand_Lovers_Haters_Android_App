@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "793178613881",
+    "firebase_url": "https://brandlovershaters.firebaseio.com",
+    "project_id": "brandlovershaters",
+    "storage_bucket": "brandlovershaters.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793178613881:android:88f6076fdc0468e7",
+        "android_client_info": {
+          "package_name": "com.example.tomas.pda_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793178613881-ev9r1tsfhmp37qp7gsmj9j9fod9d0v7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85FBbUwULr15dyp3nJQXNa3Y6-HW-l-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
