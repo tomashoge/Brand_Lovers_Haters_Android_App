@@ -31,6 +31,7 @@ public class NewCommentActivity extends Activity {
     DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReference();
     DatabaseReference dbR_brand_details_list = databaseReference.child("brands_details");
     DatabaseReference dbR_brand = dbR_brand_details_list.child(Data.company_id);
+    String aaaa;
 
     boolean likeDislikeSelected = false;
     boolean likeSelected = false;
